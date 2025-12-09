@@ -1,3 +1,4 @@
+google.com, pub-2019994446006892, DIRECT, f08c47fec0942fa0
 google.com, pub-8985311238347008, DIRECT, f08c47fec0942fa0
 
 #CPangle
